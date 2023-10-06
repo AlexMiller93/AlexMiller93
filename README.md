@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexMiller93
-- 👀 I’m interested in change my life and do interesting things.
+- 👀 I’m interested in changing my life and do interesting things.
 - 🌱 I’m currently learning Python and I want to create useful applications or websites.
 - 💞️ I’m looking to collaborate on work with experienced developers 
 - 📫 How to reach me: telegram: @isalexornot, instagram: alexmiller_93
