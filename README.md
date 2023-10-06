@@ -35,6 +35,27 @@
 - :raised_hand_with_fingers_splayed: I’m looking to collaborate on work with experienced developers 
 - :mailbox: How to reach me:  [![Telegram Badge](https://img.shields.io/badge/isalexornot-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/isalexornot)
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
+![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=darkgreen)
+![Flask](https://img.shields.io/badge/Flask-orange?style=for-the-badge&logo=flask&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html5&logoColor=orange)
+![CSS](https://img.shields.io/badge/CSS-0d2739?style=for-the-badge&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8fbee9?style=for-the-badge&logo=bootstrap&logoColor=7d1dd7)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+![PyCharm](https://img.shields.io/badge/PyCharm-55a0d4?style=for-the-badge&logo=pycharm&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-172d3d?style=for-the-badge&logo=postman&logoColor=orange)
+![Insomnia](https://img.shields.io/badge/Insomnia-lightblue?style=for-the-badge&logo=insomnia&logoColor=7d1dd7)
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexMiller93)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMiller93)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 AlexMiller93/AlexMiller93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
