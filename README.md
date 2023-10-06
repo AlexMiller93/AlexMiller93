@@ -61,41 +61,81 @@
 
 ---
 
-### :desktop_computer: My projects :
+### :desktop_computer: My projects
 <div id="projects" align="left">
   <ol>
     <li>
-      <a href="https://github.com/AlexMiller93/django_blog">
-        Django Blog
-      </a>
-      - simple blog where users can create posts, read, update and delete own posts.
+      <a href="https://github.com/AlexMiller93/Food_delivery_project">
+    Food delivery app DRF
+  </a>
     </li>
-
-    <li>
-      <a href="https://github.com/AlexMiller93/django_blog">
-        Django Blog
-      </a>
-      - simple blog where users can create posts, read, update and delete own posts.
-    </li>
-    
     <li>
       <a href="https://github.com/AlexMiller93/Plant_app">
-        Plant App
-      </a>
-      - web app where users can exchange info about home plants an also can do all "CRUD" operation with posts.
+    Plant App Django
+  </a>
     </li>
-    
-  
-    
+    <li>
+      <a href="https://github.com/AlexMiller93/django_blog">
+    Django Blog
+      </a>
   </ol>
   
+  <h4>Test tasks</h4>
+  <ul>
+    <li>
+      <a href="https://github.com/AlexMiller93/Dating_app">
+    Dating App DRF
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/AlexMiller93/curr_converter">
+    Currency Converter API with DRF
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/AlexMiller93/todo_app">
+    ToDo App GUI with Tkinter
+      </a>
+    </li>
+  </ul>
+  
+  <h4>Useful scripts</h4>
+  <ul>
+    <li>
+      <a href="https://github.com/AlexMiller93/File-Organizer">
+    File Organizer
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/AlexMiller93/Parsing-photo">
+    Photo files organizer
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/AlexMiller93/minesweeper">
+    Game Minesweeper
+      </a>
+    </li>
+  </ul>
+        
+  
 </div>
+
 ---
 
-### :fire: My Stats :
+### :fire: My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexMiller93)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMiller93)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexMiller93&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMiller93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### :joy: Joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+### :thinking: Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!---
 AlexMiller93/AlexMiller93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
