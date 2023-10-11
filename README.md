@@ -15,10 +15,6 @@
 </div>
 
 
-<div id="views_count" align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlexMiller93&style=plastic&color=brightgreen" alt=""/>
-</div>
-
 <div id="greeting" align="center">
   <h1>
     Hi, I’m Alex!
