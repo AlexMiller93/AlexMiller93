@@ -25,7 +25,7 @@
 
 ### :technologist: About Me :
 
-- :slightly_smiling_face: I’m Python backend developer with almost 2 year expierence. 
+- :slightly_smiling_face: I’m Python backend developer with 2 year expierence. 
 - :dart: I’m interested in changing my life and do interesting things.
 - :seedling: I’m currently learning Python and I want to create useful applications or websites.
 - :raised_hand_with_fingers_splayed: I’m looking to collaborate on work with experienced developers 
